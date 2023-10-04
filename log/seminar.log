@@ -1,0 +1,823 @@
+INFO 2023-09-20 13:43:52,794 autoreload 14032 11604 Watching for file changes with StatReloader
+INFO 2023-09-20 13:44:23,896 views 14032 6808 Случайное число от 0 до 100 => <<89>>
+INFO 2023-09-20 13:44:23,897 basehttp 14032 6808 "GET /three/ HTTP/1.1" 200 55
+WARNING 2023-09-20 13:44:23,933 log 14032 6808 Not Found: /favicon.ico
+WARNING 2023-09-20 13:44:23,933 basehttp 14032 6808 "GET /favicon.ico HTTP/1.1" 404 2773
+INFO 2023-09-20 13:44:49,593 views 14032 6808 Index page accessed
+INFO 2023-09-20 13:44:49,594 basehttp 14032 6808 "GET / HTTP/1.1" 200 13
+INFO 2023-09-20 13:44:59,566 basehttp 14032 6808 "GET /one HTTP/1.1" 301 0
+INFO 2023-09-20 13:44:59,569 views 14032 9748 Выпало: <<Орел>>
+INFO 2023-09-20 13:44:59,570 basehttp 14032 9748 "GET /one/ HTTP/1.1" 200 44
+INFO 2023-09-20 13:45:11,648 basehttp 14032 9748 "GET /two HTTP/1.1" 301 0
+INFO 2023-09-20 13:45:11,650 views 14032 9500 Значение одной из шести граней игрального кубика => 5
+INFO 2023-09-20 13:45:11,651 basehttp 14032 9500 "GET /two/ HTTP/1.1" 200 95
+INFO 2023-09-20 13:49:04,354 views 14032 9500 Index page accessed
+INFO 2023-09-20 13:49:04,356 basehttp 14032 9500 "GET / HTTP/1.1" 200 13
+INFO 2023-09-25 16:19:29,441 autoreload 14908 12256 Watching for file changes with StatReloader
+WARNING 2023-09-25 16:19:35,654 log 14908 5400 Not Found: /
+WARNING 2023-09-25 16:19:35,655 basehttp 14908 5400 "GET / HTTP/1.1" 404 2286
+WARNING 2023-09-25 16:19:35,732 log 14908 5400 Not Found: /favicon.ico
+WARNING 2023-09-25 16:19:35,733 basehttp 14908 5400 "GET /favicon.ico HTTP/1.1" 404 2337
+INFO 2023-09-25 16:19:47,998 basehttp 14908 5400 "GET /seminar2/ HTTP/1.1" 200 17
+WARNING 2023-09-25 16:21:22,274 log 14908 5400 Not Found: /seminar2/heas_tales
+WARNING 2023-09-25 16:21:22,275 basehttp 14908 5400 "GET /seminar2/heas_tales HTTP/1.1" 404 3613
+INFO 2023-09-25 16:21:51,619 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:37,001 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:37,668 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:38,285 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:38,796 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:39,141 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:39,374 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:39,590 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:39,805 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:40,004 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:40,196 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:40,389 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:40,589 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:40,773 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:40,957 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:41,155 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:41,341 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:41,532 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:41,725 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:41,925 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:42,116 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:42,308 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:42,517 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:42,732 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:42,925 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:43,132 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:43,332 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:43,508 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:43,709 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:43,900 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:44,092 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:44,269 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:44,477 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:44,676 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:44,885 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:45,101 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:45,316 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:45,525 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:45,740 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:45,966 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:46,166 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:46,383 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:46,604 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:46,820 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:47,036 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:47,269 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:47,493 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:47,718 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:47,925 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:48,141 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:48,357 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:48,565 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:48,772 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:48,989 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:49,204 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:49,454 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:49,671 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:49,892 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:50,124 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:50,356 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:50,621 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:50,893 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:51,156 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:51,454 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:51,844 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:54,709 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:54,942 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:55,164 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:55,389 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:55,597 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:55,822 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:56,028 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:56,228 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:56,437 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:56,637 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:56,845 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:57,061 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:57,277 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:57,485 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:57,694 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:57,901 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:58,110 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:58,333 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:58,542 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:58,749 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:58,964 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:59,173 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:59,405 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:22:59,964 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:00,421 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:00,758 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:01,031 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:08,404 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:08,677 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:08,902 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:09,140 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:09,381 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:09,733 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:10,061 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:10,317 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:10,541 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:10,759 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:10,974 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:11,197 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:11,412 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:12,061 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:12,957 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:13,870 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:14,621 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:15,480 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:20,301 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:21,919 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:22,813 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:23,318 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:23,804 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:24,317 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:24,805 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:26,125 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:26,956 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:23:27,797 basehttp 14908 5400 "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO 2023-09-25 16:53:49,002 autoreload 848 10144 Watching for file changes with StatReloader
+INFO 2023-10-03 21:52:29,443 autoreload 11784 21716 Watching for file changes with StatReloader
+WARNING 2023-10-03 21:52:32,802 log 11784 20308 Not Found: /
+WARNING 2023-10-03 21:52:32,804 basehttp 11784 20308 "GET / HTTP/1.1" 404 2395
+INFO 2023-10-03 21:52:59,689 basehttp 11784 20308 "GET /seminar3/ HTTP/1.1" 200 2064
+WARNING 2023-10-03 21:53:17,106 log 11784 20308 Not Found: /about/
+WARNING 2023-10-03 21:53:17,108 basehttp 11784 20308 "GET /about/ HTTP/1.1" 404 2431
+WARNING 2023-10-03 21:53:32,457 log 11784 20308 Not Found: /about/
+WARNING 2023-10-03 21:53:32,458 basehttp 11784 20308 "GET /about/ HTTP/1.1" 404 2431
+INFO 2023-10-03 21:53:52,513 basehttp 11784 20308 "GET /seminar3/about/ HTTP/1.1" 200 2084
+WARNING 2023-10-03 21:53:52,579 log 11784 20308 Not Found: /seminar3/about/img/me.jpg
+WARNING 2023-10-03 21:53:52,581 basehttp 11784 20308 "GET /seminar3/about/img/me.jpg HTTP/1.1" 404 2724
+INFO 2023-10-03 22:02:09,858 autoreload 6108 5412 Watching for file changes with StatReloader
+WARNING 2023-10-03 22:02:11,631 log 6108 4240 Not Found: /
+WARNING 2023-10-03 22:02:11,634 basehttp 6108 4240 "GET / HTTP/1.1" 404 2395
+ERROR 2023-10-03 22:02:26,982 log 6108 4240 Internal Server Error: /seminar3/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+ERROR 2023-10-03 22:02:26,991 basehttp 6108 4240 "GET /seminar3/ HTTP/1.1" 500 116374
+INFO 2023-10-03 22:08:23,745 autoreload 6108 5412 D:\DjangoProject\seminar_project\seminar_project\urls.py changed, reloading.
+INFO 2023-10-03 22:08:24,605 autoreload 15980 22972 Watching for file changes with StatReloader
+ERROR 2023-10-03 22:08:31,266 log 15980 15332 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+ERROR 2023-10-03 22:08:31,276 basehttp 15980 15332 "GET / HTTP/1.1" 500 116284
+ERROR 2023-10-03 22:08:47,535 log 15980 15332 Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+ERROR 2023-10-03 22:08:47,542 basehttp 15980 15332 "GET / HTTP/1.1" 500 116284
+INFO 2023-10-03 22:10:58,148 autoreload 19324 4600 Watching for file changes with StatReloader
+INFO 2023-10-03 22:10:59,955 basehttp 19324 4712 "GET / HTTP/1.1" 200 2064
+INFO 2023-10-03 22:11:09,141 basehttp 19324 4712 "GET /about/ HTTP/1.1" 200 2084
+WARNING 2023-10-03 22:11:09,199 log 19324 4712 Not Found: /about/img/me.jpg
+WARNING 2023-10-03 22:11:09,200 basehttp 19324 4712 "GET /about/img/me.jpg HTTP/1.1" 404 2679
+INFO 2023-10-03 22:11:11,099 basehttp 19324 4712 "GET / HTTP/1.1" 200 2064
+INFO 2023-10-03 22:11:13,154 basehttp 19324 4712 "GET /about/ HTTP/1.1" 200 2084
+WARNING 2023-10-03 22:11:13,200 log 19324 4712 Not Found: /about/img/me.jpg
+WARNING 2023-10-03 22:11:13,202 basehttp 19324 4712 "GET /about/img/me.jpg HTTP/1.1" 404 2679
+INFO 2023-10-03 22:11:18,194 basehttp 19324 4712 "GET / HTTP/1.1" 200 2064
+INFO 2023-10-03 22:11:45,938 autoreload 19324 4600 D:\DjangoProject\seminar_project\seminar_project\urls.py changed, reloading.
+INFO 2023-10-03 22:11:46,724 autoreload 14768 22500 Watching for file changes with StatReloader
+WARNING 2023-10-03 22:11:50,316 log 14768 12848 Not Found: /
+WARNING 2023-10-03 22:11:50,318 basehttp 14768 12848 "GET / HTTP/1.1" 404 2395
+INFO 2023-10-03 22:11:56,676 basehttp 14768 12848 "GET /seminar3/ HTTP/1.1" 200 2091
+INFO 2023-10-03 22:12:00,036 basehttp 14768 12848 "GET /seminar3/about/ HTTP/1.1" 200 2111
+WARNING 2023-10-03 22:12:00,087 log 14768 12848 Not Found: /seminar3/about/img/me.jpg
+WARNING 2023-10-03 22:12:00,088 basehttp 14768 12848 "GET /seminar3/about/img/me.jpg HTTP/1.1" 404 2724
+INFO 2023-10-03 22:12:01,744 basehttp 14768 12848 "GET /seminar3/ HTTP/1.1" 200 2091
+INFO 2023-10-03 22:12:04,769 basehttp 14768 12848 "GET /seminar3/about/ HTTP/1.1" 200 2111
+WARNING 2023-10-03 22:12:04,817 log 14768 12848 Not Found: /seminar3/about/img/me.jpg
+WARNING 2023-10-03 22:12:04,818 basehttp 14768 12848 "GET /seminar3/about/img/me.jpg HTTP/1.1" 404 2724
+INFO 2023-10-03 22:12:06,858 basehttp 14768 12848 "GET /seminar3/ HTTP/1.1" 200 2091
+INFO 2023-10-03 22:12:16,162 basehttp 14768 12848 "GET /seminar3/about/ HTTP/1.1" 200 2111
+WARNING 2023-10-03 22:12:16,216 log 14768 12848 Not Found: /seminar3/about/img/me.jpg
+WARNING 2023-10-03 22:12:16,217 basehttp 14768 12848 "GET /seminar3/about/img/me.jpg HTTP/1.1" 404 2724
+INFO 2023-10-03 22:17:41,082 autoreload 14768 22500 D:\DjangoProject\seminar_project\seminar_project\settings.py changed, reloading.
+INFO 2023-10-03 22:17:41,884 autoreload 21200 17672 Watching for file changes with StatReloader
+INFO 2023-10-03 22:43:22,855 autoreload 2104 22792 Watching for file changes with StatReloader
+ERROR 2023-10-03 22:43:29,397 log 2104 12632 Internal Server Error: /seminar3/about/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+           ~~~~~~~~~~~~~~~~^^^^^^
+KeyError: "'static'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: ''static'' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR 2023-10-03 22:43:29,410 basehttp 2104 12632 "GET /seminar3/about/ HTTP/1.1" 500 159636
+INFO 2023-10-03 22:43:58,588 basehttp 2104 12632 "GET /seminar3/ HTTP/1.1" 200 2005
+INFO 2023-10-03 22:44:05,619 basehttp 2104 12632 "GET /seminar3/about/ HTTP/1.1" 200 1836
+WARNING 2023-10-03 22:44:05,677 log 2104 12632 Not Found: /seminar3/about/img/me.jpg
+WARNING 2023-10-03 22:44:05,678 basehttp 2104 12632 "GET /seminar3/about/img/me.jpg HTTP/1.1" 404 2724
+INFO 2023-10-03 22:44:07,280 basehttp 2104 12632 "GET /seminar3/ HTTP/1.1" 200 2005
+INFO 2023-10-03 22:44:09,748 basehttp 2104 12632 "GET /seminar3/about/ HTTP/1.1" 200 1836
+WARNING 2023-10-03 22:44:09,797 log 2104 12632 Not Found: /seminar3/about/img/me.jpg
+WARNING 2023-10-03 22:44:09,798 basehttp 2104 12632 "GET /seminar3/about/img/me.jpg HTTP/1.1" 404 2724
+INFO 2023-10-03 22:44:12,425 basehttp 2104 12632 "GET /seminar3/ HTTP/1.1" 200 2005
+INFO 2023-10-03 22:57:34,994 basehttp 2104 2396 "GET /seminar3/ HTTP/1.1" 200 2005
+INFO 2023-10-03 22:57:36,620 basehttp 2104 2396 "GET /seminar3/about/ HTTP/1.1" 200 1836
+WARNING 2023-10-03 22:57:36,677 log 2104 2396 Not Found: /seminar3/about/img/me.jpg
+WARNING 2023-10-03 22:57:36,679 basehttp 2104 2396 "GET /seminar3/about/img/me.jpg HTTP/1.1" 404 2724
+INFO 2023-10-04 12:37:56,314 autoreload 14464 7668 Watching for file changes with StatReloader
+WARNING 2023-10-04 12:37:58,563 log 14464 3468 Not Found: /
+WARNING 2023-10-04 12:37:58,564 basehttp 14464 3468 "GET / HTTP/1.1" 404 2395
+WARNING 2023-10-04 12:37:58,633 log 14464 3468 Not Found: /favicon.ico
+WARNING 2023-10-04 12:37:58,633 basehttp 14464 3468 "GET /favicon.ico HTTP/1.1" 404 2446
+INFO 2023-10-04 12:38:08,129 basehttp 14464 3468 "GET /seminar3/ HTTP/1.1" 200 2005
+ERROR 2023-10-04 12:38:57,044 log 14464 3468 Internal Server Error: /seminar3/heads_game/10/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: seminar3_app/game.hyml
+ERROR 2023-10-04 12:38:57,047 basehttp 14464 3468 "GET /seminar3/heads_game/10/ HTTP/1.1" 500 81116
+INFO 2023-10-04 12:39:41,090 autoreload 12772 304 Watching for file changes with StatReloader
+WARNING 2023-10-04 12:39:42,838 log 12772 9364 Not Found: /
+WARNING 2023-10-04 12:39:42,838 basehttp 12772 9364 "GET / HTTP/1.1" 404 2395
+INFO 2023-10-04 12:40:01,395 basehttp 12772 9364 "GET /seminar3/heads_game/10/ HTTP/1.1" 200 2311
+INFO 2023-10-04 12:40:17,918 basehttp 12772 9364 "GET /seminar3/ HTTP/1.1" 200 2005
+INFO 2023-10-04 12:40:49,421 basehttp 12772 9364 "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO 2023-10-04 12:41:55,320 autoreload 13120 7192 Watching for file changes with StatReloader
+INFO 2023-10-04 12:42:04,367 basehttp 13120 8720 "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO 2023-10-04 12:42:05,695 basehttp 13120 8720 "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO 2023-10-04 12:42:07,047 basehttp 13120 8720 "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO 2023-10-04 12:42:07,689 basehttp 13120 8720 "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO 2023-10-04 12:42:08,512 basehttp 13120 8720 "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO 2023-10-04 12:42:09,334 basehttp 13120 8720 "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO 2023-10-04 12:42:10,127 basehttp 13120 8720 "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO 2023-10-04 12:42:27,205 autoreload 1032 3260 Watching for file changes with StatReloader
+INFO 2023-10-04 12:42:34,661 basehttp 1032 8376 "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO 2023-10-04 12:42:35,959 basehttp 1032 8376 "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO 2023-10-04 12:42:40,537 basehttp 1032 8376 "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO 2023-10-04 12:43:05,740 basehttp 1032 8376 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:43:11,007 basehttp 1032 8376 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:43:11,798 basehttp 1032 8376 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:43:12,567 basehttp 1032 8376 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:43:13,382 basehttp 1032 8376 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:43:14,150 basehttp 1032 8376 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:43:57,449 autoreload 13700 8856 Watching for file changes with StatReloader
+INFO 2023-10-04 12:44:00,798 basehttp 13700 10672 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:44:01,406 basehttp 13700 10672 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:44:02,073 basehttp 13700 10672 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:44:02,673 basehttp 13700 10672 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:44:03,472 basehttp 13700 10672 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:44:04,103 basehttp 13700 10672 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:44:25,448 basehttp 13700 10672 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:44:26,984 basehttp 13700 10672 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:44:27,798 basehttp 13700 10672 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:44:28,358 basehttp 13700 10672 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:45:23,019 autoreload 13700 8856 D:\DjangoProject\seminar_project\seminar3_app\views.py changed, reloading.
+INFO 2023-10-04 12:45:23,600 autoreload 9208 15028 Watching for file changes with StatReloader
+INFO 2023-10-04 12:45:26,304 basehttp 9208 7032 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:45:27,007 basehttp 9208 7032 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:45:27,488 basehttp 9208 7032 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:45:27,966 basehttp 9208 7032 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:45:28,799 basehttp 9208 7032 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:46:42,619 basehttp 9208 7032 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:46:44,943 basehttp 9208 7032 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:46:46,568 basehttp 9208 7032 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:46:57,990 basehttp 9208 7032 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:46:58,614 basehttp 9208 7032 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:46:59,102 basehttp 9208 7032 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:46:59,590 basehttp 9208 7032 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 12:47:00,118 basehttp 9208 7032 "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO 2023-10-04 15:28:02,725 autoreload 16948 12036 Watching for file changes with StatReloader
+INFO 2023-10-04 15:29:52,290 autoreload 5676 9288 Watching for file changes with StatReloader
+INFO 2023-10-04 15:30:06,709 basehttp 5676 13008 "GET /seminar3/ HTTP/1.1" 200 2005
+WARNING 2023-10-04 15:30:24,451 log 5676 13008 Not Found: /seminar3/ariicles/3
+WARNING 2023-10-04 15:30:24,451 basehttp 5676 13008 "GET /seminar3/ariicles/3 HTTP/1.1" 404 3316
+WARNING 2023-10-04 15:30:49,343 log 5676 13008 Not Found: /seminar3/ariicles/3/
+WARNING 2023-10-04 15:30:49,343 basehttp 5676 13008 "GET /seminar3/ariicles/3/ HTTP/1.1" 404 3319
+INFO 2023-10-04 15:31:05,668 basehttp 5676 13008 "GET /seminar3/articles/3/ HTTP/1.1" 200 4338
+INFO 2023-10-04 15:32:33,753 autoreload 9100 13000 Watching for file changes with StatReloader
+INFO 2023-10-04 15:32:37,764 basehttp 9100 16548 "GET /seminar3/articles/3/ HTTP/1.1" 200 4336
+INFO 2023-10-04 15:33:21,794 basehttp 9100 16548 "GET /seminar3/articles/1 HTTP/1.1" 301 0
+INFO 2023-10-04 15:33:21,800 basehttp 9100 5964 "GET /seminar3/articles/1/ HTTP/1.1" 200 4336
+INFO 2023-10-04 15:33:27,392 basehttp 9100 5964 "GET /seminar3/articles/1/ HTTP/1.1" 200 4336
+INFO 2023-10-04 15:33:37,269 basehttp 9100 5964 "GET /seminar3/articles/2 HTTP/1.1" 301 0
+INFO 2023-10-04 15:33:37,275 basehttp 9100 16568 "GET /seminar3/articles/2/ HTTP/1.1" 200 4336
+INFO 2023-10-04 15:36:27,894 autoreload 9100 13000 D:\DjangoProject\seminar_project\seminar3_app\views.py changed, reloading.
+INFO 2023-10-04 15:36:28,382 autoreload 15792 8168 Watching for file changes with StatReloader
+INFO 2023-10-04 15:38:00,813 autoreload 15792 8168 D:\DjangoProject\seminar_project\seminar3_app\views.py changed, reloading.
+INFO 2023-10-04 15:38:01,297 autoreload 1076 13032 Watching for file changes with StatReloader
+INFO 2023-10-04 15:44:38,622 autoreload 1076 13032 D:\DjangoProject\seminar_project\seminar3_app\views.py changed, reloading.
+INFO 2023-10-04 15:44:39,110 autoreload 4112 1564 Watching for file changes with StatReloader
+INFO 2023-10-04 16:22:31,087 autoreload 244 14904 Watching for file changes with StatReloader
+INFO 2023-10-04 16:22:37,732 basehttp 244 13840 "GET /seminar3/articles/2/ HTTP/1.1" 200 4716
+ERROR 2023-10-04 16:22:40,655 log 244 13840 Internal Server Error: /seminar3/article/21
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: View.as_view() takes 1 positional argument but 2 were given
+ERROR 2023-10-04 16:22:40,656 basehttp 244 13840 "GET /seminar3/article/21 HTTP/1.1" 500 63145
+INFO 2023-10-04 16:23:35,919 basehttp 244 13840 "GET /seminar3/articles/3/ HTTP/1.1" 200 4716
+ERROR 2023-10-04 16:23:54,128 log 244 13840 Internal Server Error: /seminar3/article/41
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: View.as_view() takes 1 positional argument but 2 were given
+ERROR 2023-10-04 16:23:54,129 basehttp 244 13840 "GET /seminar3/article/41 HTTP/1.1" 500 63145
+INFO 2023-10-04 16:30:28,655 autoreload 12024 14092 Watching for file changes with StatReloader
+INFO 2023-10-04 16:30:38,232 basehttp 12024 13592 "GET /seminar3/article/41 HTTP/1.1" 301 0
+ERROR 2023-10-04 16:30:38,262 log 12024 16416 Internal Server Error: /seminar3/article/41/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: View.as_view() takes 1 positional argument but 2 were given
+ERROR 2023-10-04 16:30:38,264 basehttp 12024 16416 "GET /seminar3/article/41/ HTTP/1.1" 500 63291
+INFO 2023-10-04 16:31:51,045 basehttp 12024 16416 "GET /seminar3/articles/2/ HTTP/1.1" 200 4736
+ERROR 2023-10-04 16:32:00,875 log 12024 16416 Internal Server Error: /seminar3/article/21/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: View.as_view() takes 1 positional argument but 2 were given
+ERROR 2023-10-04 16:32:00,876 basehttp 12024 16416 "GET /seminar3/article/21/ HTTP/1.1" 500 63154
+INFO 2023-10-04 16:40:48,655 autoreload 12024 14092 D:\DjangoProject\seminar_project\seminar2_app\models.py changed, reloading.
+INFO 2023-10-04 16:40:49,230 autoreload 10776 12008 Watching for file changes with StatReloader
+INFO 2023-10-04 16:43:26,481 autoreload 10776 12008 D:\DjangoProject\seminar_project\seminar2_app\models.py changed, reloading.
+INFO 2023-10-04 16:43:26,963 autoreload 10388 15112 Watching for file changes with StatReloader
+INFO 2023-10-04 16:47:45,849 autoreload 17012 10808 Watching for file changes with StatReloader
+INFO 2023-10-04 16:47:55,358 basehttp 17012 15016 "GET /seminar3/articles/2/ HTTP/1.1" 200 6947
+ERROR 2023-10-04 16:47:57,458 log 17012 15016 Internal Server Error: /seminar3/article/21/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: View.as_view() takes 1 positional argument but 2 were given
+ERROR 2023-10-04 16:47:57,459 basehttp 17012 15016 "GET /seminar3/article/21/ HTTP/1.1" 500 63154
+INFO 2023-10-04 16:55:06,515 autoreload 6716 12464 Watching for file changes with StatReloader
+INFO 2023-10-04 16:55:15,543 basehttp 6716 15268 "GET /seminar3/articles/2/ HTTP/1.1" 200 6947
+ERROR 2023-10-04 16:55:20,517 log 6716 15268 Internal Server Error: /seminar3/article/21/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: View.as_view() takes 1 positional argument but 2 were given
+ERROR 2023-10-04 16:55:20,518 basehttp 6716 15268 "GET /seminar3/article/21/ HTTP/1.1" 500 63154
+INFO 2023-10-04 16:55:41,456 basehttp 6716 15268 "GET /seminar3/article/21 HTTP/1.1" 301 0
+ERROR 2023-10-04 16:55:41,476 log 6716 16512 Internal Server Error: /seminar3/article/21/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: View.as_view() takes 1 positional argument but 2 were given
+ERROR 2023-10-04 16:55:41,477 basehttp 6716 16512 "GET /seminar3/article/21/ HTTP/1.1" 500 62983
+INFO 2023-10-04 16:56:40,504 autoreload 6716 12464 D:\DjangoProject\seminar_project\seminar3_app\urls.py changed, reloading.
+INFO 2023-10-04 16:56:41,008 autoreload 13956 6744 Watching for file changes with StatReloader
+ERROR 2023-10-04 16:56:42,285 log 13956 15204 Internal Server Error: /seminar3/article/21/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR 2023-10-04 16:56:42,288 basehttp 13956 15204 "GET /seminar3/article/21/ HTTP/1.1" 500 84534
+INFO 2023-10-04 16:56:55,553 basehttp 13956 15204 "GET /seminar3/articles/2/ HTTP/1.1" 200 6947
+ERROR 2023-10-04 16:56:57,387 log 13956 15204 Internal Server Error: /seminar3/article/21/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR 2023-10-04 16:56:57,389 basehttp 13956 15204 "GET /seminar3/article/21/ HTTP/1.1" 500 84568
+INFO 2023-10-04 16:58:28,015 autoreload 10776 3148 Watching for file changes with StatReloader
+ERROR 2023-10-04 16:58:32,054 log 10776 11596 Internal Server Error: /seminar3/article/21/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR 2023-10-04 16:58:32,055 basehttp 10776 11596 "GET /seminar3/article/21/ HTTP/1.1" 500 84705
+INFO 2023-10-04 16:58:38,554 basehttp 10776 11596 "GET /seminar3/articles/3/ HTTP/1.1" 200 6947
+ERROR 2023-10-04 16:58:40,972 log 10776 11596 Internal Server Error: /seminar3/article/47/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR 2023-10-04 16:58:40,974 basehttp 10776 11596 "GET /seminar3/article/47/ HTTP/1.1" 500 84568
+INFO 2023-10-04 17:00:16,081 autoreload 11892 5760 Watching for file changes with StatReloader
+WARNING 2023-10-04 17:00:18,180 log 11892 17100 Not Found: /
+WARNING 2023-10-04 17:00:18,182 basehttp 11892 17100 "GET / HTTP/1.1" 404 2395
+INFO 2023-10-04 17:00:25,839 basehttp 11892 17100 "GET /seminar3/ HTTP/1.1" 200 2005
+INFO 2023-10-04 17:00:33,446 basehttp 11892 17100 "GET /seminar3/articles/2/ HTTP/1.1" 200 6947
+ERROR 2023-10-04 17:00:36,192 log 11892 17100 Internal Server Error: /seminar3/article/21/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR 2023-10-04 17:00:36,194 basehttp 11892 17100 "GET /seminar3/article/21/ HTTP/1.1" 500 84568
+INFO 2023-10-04 17:05:14,363 autoreload 16692 14224 Watching for file changes with StatReloader
+ERROR 2023-10-04 17:05:21,537 log 16692 3432 Internal Server Error: /seminar3/article/21/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR 2023-10-04 17:05:21,539 basehttp 16692 3432 "GET /seminar3/article/21/ HTTP/1.1" 500 84705
+INFO 2023-10-04 17:05:27,414 basehttp 16692 3432 "GET /seminar3/articles/3/ HTTP/1.1" 200 6947
+ERROR 2023-10-04 17:05:29,195 log 16692 3432 Internal Server Error: /seminar3/article/41/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR 2023-10-04 17:05:29,196 basehttp 16692 3432 "GET /seminar3/article/41/ HTTP/1.1" 500 84568
+INFO 2023-10-04 17:07:32,448 autoreload 16692 14224 D:\DjangoProject\seminar_project\seminar3_app\views.py changed, reloading.
+INFO 2023-10-04 17:07:33,020 autoreload 11884 11604 Watching for file changes with StatReloader
+INFO 2023-10-04 17:22:02,665 autoreload 11884 11604 D:\DjangoProject\seminar_project\seminar3_app\views.py changed, reloading.
+INFO 2023-10-04 17:22:03,196 autoreload 4484 15880 Watching for file changes with StatReloader
+INFO 2023-10-04 17:22:29,750 basehttp 4484 16900 "GET /seminar3/articles/3 HTTP/1.1" 301 0
+INFO 2023-10-04 17:22:29,769 basehttp 4484 15868 "GET /seminar3/articles/3/ HTTP/1.1" 200 7087
+ERROR 2023-10-04 17:22:37,321 log 4484 15868 Internal Server Error: /seminar3/article/41/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR 2023-10-04 17:22:37,322 basehttp 4484 15868 "GET /seminar3/article/41/ HTTP/1.1" 500 84568
+ERROR 2023-10-04 17:23:35,163 log 4484 15868 Internal Server Error: /seminar3/article/41/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR 2023-10-04 17:23:35,164 basehttp 4484 15868 "GET /seminar3/article/41/ HTTP/1.1" 500 84397

@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ title }}{% endblock %}
+<style>
+   .rounded-img {
+       width: 60%;
+       border-radius: 50%;
+       box-shadow: 0 0 10px rgba(26, 9, 9, 0.4);
+       padding: 0.6em;
+       margin-bottom: 1em;
+   }
+</style>
+{% block content %}
+<div class="container text-center my-5">
+    <div class="row">
+        <div class="col-lg-6 col-md-8 mx-auto">
+            <img class="rounded-img" src="./img/me.jpg" alt="Тут должно быть мое фото"/>
+            <h1 class="fw-light">Меня зовут Елизавета</h1>
+            <p class="lead text-muted">Я - начинающий разработчик на языке Python</p>
+            <a href="{% url 'main' %}" class="btn btn-primary">Назад</a>
+        </div>
+    </div>
+</div>
+{% endblock %}

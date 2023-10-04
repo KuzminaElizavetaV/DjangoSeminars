@@ -1,0 +1,896 @@
+WARNING Not Found: /
+WARNING "GET / HTTP/1.1" 404 2286
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 2337
+INFO <WSGIRequest: GET '/seminar2/'> request received
+INFO "GET /seminar2/ HTTP/1.1" 200 17
+WARNING Not Found: /seminar2/heas_tales
+WARNING "GET /seminar2/heas_tales HTTP/1.1" 404 3613
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+INFO <WSGIRequest: GET '/seminar2/heads_tails/'> request received
+INFO "GET /seminar2/heads_tails/ HTTP/1.1" 200 32
+WARNING Not Found: /
+WARNING "GET / HTTP/1.1" 404 2395
+INFO "GET /seminar3/ HTTP/1.1" 200 2064
+WARNING Not Found: /about/
+WARNING "GET /about/ HTTP/1.1" 404 2431
+WARNING Not Found: /about/
+WARNING "GET /about/ HTTP/1.1" 404 2431
+INFO "GET /seminar3/about/ HTTP/1.1" 200 2084
+WARNING Not Found: /seminar3/about/img/me.jpg
+WARNING "GET /seminar3/about/img/me.jpg HTTP/1.1" 404 2724
+WARNING Not Found: /
+WARNING "GET / HTTP/1.1" 404 2395
+ERROR Internal Server Error: /seminar3/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+ERROR "GET /seminar3/ HTTP/1.1" 500 116374
+INFO D:\DjangoProject\seminar_project\seminar_project\urls.py changed, reloading.
+ERROR Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+ERROR "GET / HTTP/1.1" 500 116284
+ERROR Internal Server Error: /
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\backends\django.py", line 61, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 175, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 167, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 1005, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 1005, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 966, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\defaulttags.py", line 471, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\urls\base.py", line 88, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\urls\resolvers.py", line 828, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for '' not found. '' is not a valid view function or pattern name.
+ERROR "GET / HTTP/1.1" 500 116284
+INFO "GET / HTTP/1.1" 200 2064
+INFO "GET /about/ HTTP/1.1" 200 2084
+WARNING Not Found: /about/img/me.jpg
+WARNING "GET /about/img/me.jpg HTTP/1.1" 404 2679
+INFO "GET / HTTP/1.1" 200 2064
+INFO "GET /about/ HTTP/1.1" 200 2084
+WARNING Not Found: /about/img/me.jpg
+WARNING "GET /about/img/me.jpg HTTP/1.1" 404 2679
+INFO "GET / HTTP/1.1" 200 2064
+INFO D:\DjangoProject\seminar_project\seminar_project\urls.py changed, reloading.
+WARNING Not Found: /
+WARNING "GET / HTTP/1.1" 404 2395
+INFO "GET /seminar3/ HTTP/1.1" 200 2091
+INFO "GET /seminar3/about/ HTTP/1.1" 200 2111
+WARNING Not Found: /seminar3/about/img/me.jpg
+WARNING "GET /seminar3/about/img/me.jpg HTTP/1.1" 404 2724
+INFO "GET /seminar3/ HTTP/1.1" 200 2091
+INFO "GET /seminar3/about/ HTTP/1.1" 200 2111
+WARNING Not Found: /seminar3/about/img/me.jpg
+WARNING "GET /seminar3/about/img/me.jpg HTTP/1.1" 404 2724
+INFO "GET /seminar3/ HTTP/1.1" 200 2091
+INFO "GET /seminar3/about/ HTTP/1.1" 200 2111
+WARNING Not Found: /seminar3/about/img/me.jpg
+WARNING "GET /seminar3/about/img/me.jpg HTTP/1.1" 404 2724
+INFO D:\DjangoProject\seminar_project\seminar_project\settings.py changed, reloading.
+ERROR Internal Server Error: /seminar3/about/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\defaulttags.py", line 1026, in find_library
+    return parser.libraries[name]
+           ~~~~~~~~~~~~~~~~^^^^^^
+KeyError: "'static'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\loader.py", line 42, in select_template
+    return engine.get_template(template_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\backends\django.py", line 33, in get_template
+    return Template(self.engine.get_template(template_name), self)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\engine.py", line 175, in get_template
+    template, origin = self.find_template(template_name)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\engine.py", line 157, in find_template
+    template = loader.get_template(name, skip=skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\loaders\cached.py", line 57, in get_template
+    template = super().get_template(template_name, skip)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\loaders\base.py", line 28, in get_template
+    return Template(
+           ^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 154, in __init__
+    self.nodelist = self.compile_nodelist()
+                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 200, in compile_nodelist
+    return parser.parse()
+           ^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\loader_tags.py", line 293, in do_extends
+    nodelist = parser.parse()
+               ^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 513, in parse
+    raise self.error(token, e)
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\base.py", line 511, in parse
+    compiled_result = compile_func(self, token)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\defaulttags.py", line 1088, in load
+    lib = find_library(parser, name)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\defaulttags.py", line 1028, in find_library
+    raise TemplateSyntaxError(
+django.template.exceptions.TemplateSyntaxError: ''static'' is not a registered tag library. Must be one of:
+admin_list
+admin_modify
+admin_urls
+cache
+i18n
+l10n
+log
+static
+tz
+ERROR "GET /seminar3/about/ HTTP/1.1" 500 159636
+INFO "GET /seminar3/ HTTP/1.1" 200 2005
+INFO "GET /seminar3/about/ HTTP/1.1" 200 1836
+WARNING Not Found: /seminar3/about/img/me.jpg
+WARNING "GET /seminar3/about/img/me.jpg HTTP/1.1" 404 2724
+INFO "GET /seminar3/ HTTP/1.1" 200 2005
+INFO "GET /seminar3/about/ HTTP/1.1" 200 1836
+WARNING Not Found: /seminar3/about/img/me.jpg
+WARNING "GET /seminar3/about/img/me.jpg HTTP/1.1" 404 2724
+INFO "GET /seminar3/ HTTP/1.1" 200 2005
+INFO "GET /seminar3/ HTTP/1.1" 200 2005
+INFO "GET /seminar3/about/ HTTP/1.1" 200 1836
+WARNING Not Found: /seminar3/about/img/me.jpg
+WARNING "GET /seminar3/about/img/me.jpg HTTP/1.1" 404 2724
+WARNING Not Found: /
+WARNING "GET / HTTP/1.1" 404 2395
+WARNING Not Found: /favicon.ico
+WARNING "GET /favicon.ico HTTP/1.1" 404 2446
+INFO "GET /seminar3/ HTTP/1.1" 200 2005
+ERROR Internal Server Error: /seminar3/heads_game/10/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 90, in rendered_content
+    template = self.resolve_template(self.template_name)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\response.py", line 72, in resolve_template
+    return select_template(template, using=self.using)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\template\loader.py", line 47, in select_template
+    raise TemplateDoesNotExist(", ".join(template_name_list), chain=chain)
+django.template.exceptions.TemplateDoesNotExist: seminar3_app/game.hyml
+ERROR "GET /seminar3/heads_game/10/ HTTP/1.1" 500 81116
+WARNING Not Found: /
+WARNING "GET / HTTP/1.1" 404 2395
+INFO "GET /seminar3/heads_game/10/ HTTP/1.1" 200 2311
+INFO "GET /seminar3/ HTTP/1.1" 200 2005
+INFO "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO "GET /seminar3/dice_game/5/ HTTP/1.1" 200 1947
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO D:\DjangoProject\seminar_project\seminar3_app\views.py changed, reloading.
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/heads_game/5/ HTTP/1.1" 200 1981
+INFO "GET /seminar3/ HTTP/1.1" 200 2005
+WARNING Not Found: /seminar3/ariicles/3
+WARNING "GET /seminar3/ariicles/3 HTTP/1.1" 404 3316
+WARNING Not Found: /seminar3/ariicles/3/
+WARNING "GET /seminar3/ariicles/3/ HTTP/1.1" 404 3319
+INFO "GET /seminar3/articles/3/ HTTP/1.1" 200 4338
+INFO "GET /seminar3/articles/3/ HTTP/1.1" 200 4336
+INFO "GET /seminar3/articles/1 HTTP/1.1" 301 0
+INFO "GET /seminar3/articles/1/ HTTP/1.1" 200 4336
+INFO "GET /seminar3/articles/1/ HTTP/1.1" 200 4336
+INFO "GET /seminar3/articles/2 HTTP/1.1" 301 0
+INFO "GET /seminar3/articles/2/ HTTP/1.1" 200 4336
+INFO D:\DjangoProject\seminar_project\seminar3_app\views.py changed, reloading.
+INFO D:\DjangoProject\seminar_project\seminar3_app\views.py changed, reloading.
+INFO D:\DjangoProject\seminar_project\seminar3_app\views.py changed, reloading.
+INFO "GET /seminar3/articles/2/ HTTP/1.1" 200 4716
+ERROR Internal Server Error: /seminar3/article/21
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: View.as_view() takes 1 positional argument but 2 were given
+ERROR "GET /seminar3/article/21 HTTP/1.1" 500 63145
+INFO "GET /seminar3/articles/3/ HTTP/1.1" 200 4716
+ERROR Internal Server Error: /seminar3/article/41
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: View.as_view() takes 1 positional argument but 2 were given
+ERROR "GET /seminar3/article/41 HTTP/1.1" 500 63145
+INFO "GET /seminar3/article/41 HTTP/1.1" 301 0
+ERROR Internal Server Error: /seminar3/article/41/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: View.as_view() takes 1 positional argument but 2 were given
+ERROR "GET /seminar3/article/41/ HTTP/1.1" 500 63291
+INFO "GET /seminar3/articles/2/ HTTP/1.1" 200 4736
+ERROR Internal Server Error: /seminar3/article/21/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: View.as_view() takes 1 positional argument but 2 were given
+ERROR "GET /seminar3/article/21/ HTTP/1.1" 500 63154
+INFO D:\DjangoProject\seminar_project\seminar2_app\models.py changed, reloading.
+INFO D:\DjangoProject\seminar_project\seminar2_app\models.py changed, reloading.
+INFO "GET /seminar3/articles/2/ HTTP/1.1" 200 6947
+ERROR Internal Server Error: /seminar3/article/21/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: View.as_view() takes 1 positional argument but 2 were given
+ERROR "GET /seminar3/article/21/ HTTP/1.1" 500 63154
+INFO "GET /seminar3/articles/2/ HTTP/1.1" 200 6947
+ERROR Internal Server Error: /seminar3/article/21/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: View.as_view() takes 1 positional argument but 2 were given
+ERROR "GET /seminar3/article/21/ HTTP/1.1" 500 63154
+INFO "GET /seminar3/article/21 HTTP/1.1" 301 0
+ERROR Internal Server Error: /seminar3/article/21/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: View.as_view() takes 1 positional argument but 2 were given
+ERROR "GET /seminar3/article/21/ HTTP/1.1" 500 62983
+INFO D:\DjangoProject\seminar_project\seminar3_app\urls.py changed, reloading.
+ERROR Internal Server Error: /seminar3/article/21/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR "GET /seminar3/article/21/ HTTP/1.1" 500 84534
+INFO "GET /seminar3/articles/2/ HTTP/1.1" 200 6947
+ERROR Internal Server Error: /seminar3/article/21/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR "GET /seminar3/article/21/ HTTP/1.1" 500 84568
+ERROR Internal Server Error: /seminar3/article/21/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR "GET /seminar3/article/21/ HTTP/1.1" 500 84705
+INFO "GET /seminar3/articles/3/ HTTP/1.1" 200 6947
+ERROR Internal Server Error: /seminar3/article/47/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR "GET /seminar3/article/47/ HTTP/1.1" 500 84568
+WARNING Not Found: /
+WARNING "GET / HTTP/1.1" 404 2395
+INFO "GET /seminar3/ HTTP/1.1" 200 2005
+INFO "GET /seminar3/articles/2/ HTTP/1.1" 200 6947
+ERROR Internal Server Error: /seminar3/article/21/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR "GET /seminar3/article/21/ HTTP/1.1" 500 84568
+ERROR Internal Server Error: /seminar3/article/21/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR "GET /seminar3/article/21/ HTTP/1.1" 500 84705
+INFO "GET /seminar3/articles/3/ HTTP/1.1" 200 6947
+ERROR Internal Server Error: /seminar3/article/41/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR "GET /seminar3/article/41/ HTTP/1.1" 500 84568
+INFO D:\DjangoProject\seminar_project\seminar3_app\views.py changed, reloading.
+INFO D:\DjangoProject\seminar_project\seminar3_app\views.py changed, reloading.
+INFO "GET /seminar3/articles/3 HTTP/1.1" 301 0
+INFO "GET /seminar3/articles/3/ HTTP/1.1" 200 7087
+ERROR Internal Server Error: /seminar3/article/41/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR "GET /seminar3/article/41/ HTTP/1.1" 500 84568
+ERROR Internal Server Error: /seminar3/article/41/
+Traceback (most recent call last):
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\base.py", line 143, in dispatch
+    return handler(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 108, in get
+    self.object = self.get_object()
+                  ^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 31, in get_object
+    queryset = self.get_queryset()
+               ^^^^^^^^^^^^^^^^^^^
+  File "D:\DjangoProject\venv\Lib\site-packages\django\views\generic\detail.py", line 72, in get_queryset
+    raise ImproperlyConfigured(
+django.core.exceptions.ImproperlyConfigured: DetailView is missing a QuerySet. Define DetailView.model, DetailView.queryset, or override DetailView.get_queryset().
+ERROR "GET /seminar3/article/41/ HTTP/1.1" 500 84397

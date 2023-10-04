@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block content %}
+<div class="container text-left my-5">
+    <div class="row">
+        <div class="col-lg-6 col-md-8 mx-auto">
+            <h1 class="fw-light">Статьи автора</h1>
+            <ul>
+                {% for article in articles %}
+                    {% if article.is_published %}
+<!--                    <li class="lead text-muted" > <a href="{% url 'article' article.pk %}"> {{ article.title }} </a>  </li>-->
+                    <li class="lead text-muted" > <a href="{{ article.get_absolute_url }}"> {{ article.title }} </a> </li>
+                    {% else %}
+                    <li class="lead text-muted"> {{ article.title }} </li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            <a href="{% url 'main' %}" class="btn btn-primary">На главную</a>
+        </div>
+    </div>
+</div>
+{% endblock %}
